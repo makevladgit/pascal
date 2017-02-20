@@ -1,6 +1,6 @@
 program Raz1Zad1;
 uses crt;
-var a,b:integer;
+var a,b:integer;               111
 begin
 clrscr;
 write ('Введите 1 число: ');
